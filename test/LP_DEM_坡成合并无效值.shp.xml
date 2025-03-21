@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20250321</CreaDate><CreaTime>00021800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="栅格转点" ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\RasterToPoint" Date="20250321" Time="000218">RasterToPoint C:\Users\WINDOWS\Desktop\MAFVF\test\LP_DEM_坡成合并无效值.tif C:\Users\WINDOWS\Desktop\MAFVF\test\LP_DEM_坡成合并无效值.shp Value</Process></lineage></DataProperties></Esri></metadata>

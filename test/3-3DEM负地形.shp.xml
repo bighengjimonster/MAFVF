@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20250321</CreaDate><CreaTime>00312800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="栅格转面 (2)" ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20250321" Time="003128">RasterToPolygon C:\Users\WINDOWS\Desktop\MAFVF\test\3-2DEM负地形.tif C:\Users\WINDOWS\Desktop\MAFVF\test\3-3DEM负地形.shp SIMPLIFY Value SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
